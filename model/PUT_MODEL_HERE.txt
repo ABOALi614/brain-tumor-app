@@ -1,0 +1,7 @@
+ضع هنا الملفين اللي هيطلعوا لك من Colab بعد التدريب:
+  1) brain_tumor_model.keras
+  2) class_names.json
+
+Put the two files produced by the Colab notebook here:
+  1) brain_tumor_model.keras
+  2) class_names.json
